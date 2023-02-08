@@ -456,6 +456,10 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+#resume .container{
+  background-color: #f5f8fd;
+}
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -646,6 +650,7 @@ section {
 .portfolio-details .portfolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(5, 13, 24, 0.08);
+  width: 430px;
 }
 
 .portfolio-details .portfolio-info h3 {
@@ -678,6 +683,7 @@ section {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+  line-height: 200%;
 
 }
 
@@ -687,6 +693,7 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+
 .services .icon-box {
   margin-bottom: 20px;
 }
@@ -845,15 +852,24 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
 .contact {
+  height: 100%;
   padding-bottom: 130px;
+
 }
 
+.contact .container{
+  height: 580px;
+}
+
+
 .contact .info {
-  padding: 30px;
+  padding: 50px;
   background: #fff;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+
 }
 
 .contact .info i {
@@ -915,7 +931,8 @@ section {
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
-.contact .info .phone:hover i {
+.contact .info .phone:hover i,
+.contact .info .github:hover i {
   background: #149ddd;
   color: #fff;
 }
