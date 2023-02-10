@@ -576,7 +576,9 @@ section {
   z-index: 2;
   opacity: 0;
 }
+.portfolio .portfolio-wrap img{
 
+}
 .portfolio .portfolio-wrap .portfolio-links {
   opacity: 1;
   left: 0;
