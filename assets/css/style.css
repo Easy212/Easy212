@@ -672,7 +672,7 @@ section {
 .portfolio-details .portfolio-info ul li+li {
   margin-top: 10px;
 }
-
+gh
 .portfolio-details .portfolio-description {
   padding-top: 30px;
 }
@@ -689,16 +689,6 @@ section {
 
 }
 
-
-
-
-/*--------------------------------------------------------------
-# Services
---------------------------------------------------------------*/
-
-.services .icon-box {
-  margin-bottom: 20px;
-}
 
 .services .icon {
   float: left;
