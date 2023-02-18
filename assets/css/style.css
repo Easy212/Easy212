@@ -415,9 +415,11 @@ section {
 .facts .count-box a:hover {
   color: #1f5297;
 }
-
+.subTitle{
+  font-size: 20px;
+}
 /*--------------------------------------------------------------
-# Akills
+# kills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
