@@ -578,9 +578,7 @@ section {
   z-index: 2;
   opacity: 0;
 }
-.portfolio .portfolio-wrap img{
 
-}
 .portfolio .portfolio-wrap .portfolio-links {
   opacity: 1;
   left: 0;
@@ -674,14 +672,20 @@ section {
 .portfolio-details .portfolio-info ul li+li {
   margin-top: 10px;
 }
-gh
+
+.textIn{
+  color: #18d26e;
+}
+
 .portfolio-details .portfolio-description {
+  margin-top: 100px;
   padding-top: 30px;
 }
 
 .portfolio-details .portfolio-description h2 {
   font-size: 26px;
   font-weight: 700;
+
   margin-bottom: 20px;
 }
 
