@@ -758,6 +758,31 @@ section {
   margin-right: 15px;
 }
 
+.portfolio-details .portfolio-info ol {
+  padding: 15px;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.portfolio-details .portfolio-info ol li{
+  margin-bottom: 10px;
+  line-height: 20px;
+}
+
+.fucntionContent{
+  list-style-type: disc; 
+  list-style-image: none;
+  margin-left: 10px;
+  line-height: 15px;
+}
+
+.fucntionContent ul li{
+  line-height: 20px;
+  margin-top: 10px;
+}
+
+
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
