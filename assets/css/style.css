@@ -785,7 +785,11 @@ section {
   margin-top: 10px;
 }
 
-
+.projectReview{
+  margin-top: 30px;
+  margin-bottom: -10px;
+  font-weight: bold;
+}
 
 /*--------------------------------------------------------------
 # Testimonials
